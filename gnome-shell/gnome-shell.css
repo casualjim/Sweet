@@ -2084,3 +2084,7 @@ StScrollBar {
 
 .openweather-current-databox-captions, .openweather-forecast-day {
   color: #c50ed2; }
+
+.paperwm-selection {
+  background-color: transparent;
+  border: 0px; }
